@@ -91,6 +91,11 @@ module.exports = {
             pattern: 'pages/**',
             position: 'after',
           },
+          {
+            group: 'internal',
+            pattern: 'styles/**',
+            position: 'after',
+          },
         ],
       },
     ],
