@@ -1,5 +1,5 @@
 export const baseTheme = {
   colors: {
-    background: '#3db34846',
+    common: '#3db34846',
   },
 };

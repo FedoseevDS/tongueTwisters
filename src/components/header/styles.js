@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { baseTheme } from 'styles/colors';
 
 export const Template = styled(Header)`
-  background: ${baseTheme.colors.background};
+  background: ${baseTheme.colors.common};
   display: flex;
   height: 100px;
 `;
